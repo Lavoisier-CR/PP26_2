@@ -21,3 +21,6 @@ ATENÇÂO 2. Lembre que é IMPORTANTE fazer uso da convenção essêncial que é
 log será um singleton, a classe deverá de Chamar SingletonLog; Se aluno fará parte do Obsever, a classe deverá se chamar ObserverAluno.
 
 
+![Observer](img/observer.png)
+
+
